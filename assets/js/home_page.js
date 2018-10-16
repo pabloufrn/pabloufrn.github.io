@@ -16,7 +16,7 @@ $(document).ready(function(){
 		}
 		last_item = $(this);
 		last_project = curr_project;
-		last_item.css("background-color", "blue");
+		last_item.css("background-color", "#1e2769");
 		$(last_project).show("slow");
 	});
 });
